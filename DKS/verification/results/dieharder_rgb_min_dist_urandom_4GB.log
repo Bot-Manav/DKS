@@ -1,0 +1,19 @@
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |rands/second|   Seed   |
+stdin_input_raw|  3.48e+07  |4077562773|
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+rgb_minimum_distance|   0|     10000|    1000|0.00000000|  FAILED  
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "verification/gen_stream.py", line 42, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "verification/gen_stream.py", line 33, in main
+    f.write(os.urandom(n))
+    ~~~~~~~^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe

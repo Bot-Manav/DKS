@@ -1,0 +1,11 @@
+[1] reference ChaCha20-Poly1305 vs Wycheproof: 316/316 ok
+[2] reference HKDF-SHA256 vs Wycheproof: 83/83 ok
+[3] valid inputs: ciphertext, message key, state and cross-decrypt: 3000/3000 ok
+[4] failure inputs, flag and gibberish byte-for-byte: 539/3000 ok
+      mismatches for 'one bit flipped': 574
+      mismatches for 'wrong version byte': 575
+      mismatches for 'random bytes': 464
+      mismatches for 'wrong key': 575
+      mismatches for 'truncated': 273
+      of these, validity flags differ: 0; only the gibberish differs: 2461
+RESULT: 2461 MISMATCHES

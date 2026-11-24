@@ -1,0 +1,266 @@
+### test 0
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.04e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_birthdays|   0|       100|     100|0.95401257|  PASSED  
+### test 1
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.04e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+      diehard_operm5|   0|   1000000|     100|0.56519386|  PASSED  
+### test 2
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.05e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+  diehard_rank_32x32|   0|     40000|     100|0.05882605|  PASSED  
+### test 3
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.06e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+    diehard_rank_6x8|   0|    100000|     100|0.94174477|  PASSED  
+### test 4
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.01e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_bitstream|   0|   2097152|     100|0.98011073|  PASSED  
+### test 8
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.03e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+diehard_count_1s_str|   0|    256000|     100|0.51608906|  PASSED  
+### test 9
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.03e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+diehard_count_1s_byt|   0|    256000|     100|0.26888102|  PASSED  
+### test 10
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.84e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+ diehard_parking_lot|   0|     12000|     100|0.45362429|  PASSED  
+### test 11
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.87e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_2dsphere|   2|      8000|     100|0.83420483|  PASSED  
+### test 12
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.00e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_3dsphere|   3|      4000|     100|0.39618247|  PASSED  
+### test 13
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.65e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 3 times
+     diehard_squeeze|   0|    100000|     100|0.73360256|  PASSED  
+### test 15
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.74e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_runs|   0|    100000|     100|0.32844394|  PASSED  
+        diehard_runs|   0|    100000|     100|0.84506177|  PASSED  
+### test 16
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.72e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+       diehard_craps|   0|    200000|     100|0.49551305|  PASSED  
+       diehard_craps|   0|    200000|     100|0.57905366|  PASSED  
+### test 17
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.57e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 29 times
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.00000000|  FAILED  
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.13431032|  PASSED  
+### test 100
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.02e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+         sts_monobit|   1|    100000|     100|0.23663684|  PASSED  
+### test 101
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.04e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+            sts_runs|   2|    100000|     100|0.24912415|  PASSED  
+### test 102
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  1.01e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+          sts_serial|   1|    100000|     100|0.23663684|  PASSED  
+          sts_serial|   2|    100000|     100|0.51489151|  PASSED  
+          sts_serial|   3|    100000|     100|0.98264382|  PASSED  
+          sts_serial|   3|    100000|     100|0.51392835|  PASSED  
+          sts_serial|   4|    100000|     100|0.40514348|  PASSED  
+          sts_serial|   4|    100000|     100|0.77450086|  PASSED  
+          sts_serial|   5|    100000|     100|0.94235107|  PASSED  
+          sts_serial|   5|    100000|     100|0.42985609|  PASSED  
+          sts_serial|   6|    100000|     100|0.74028647|  PASSED  
+          sts_serial|   6|    100000|     100|0.94319708|  PASSED  
+          sts_serial|   7|    100000|     100|0.45996668|  PASSED  
+          sts_serial|   7|    100000|     100|0.45339230|  PASSED  
+          sts_serial|   8|    100000|     100|0.75379647|  PASSED  
+          sts_serial|   8|    100000|     100|0.68636695|  PASSED  
+          sts_serial|   9|    100000|     100|0.98601382|  PASSED  
+          sts_serial|   9|    100000|     100|0.43965406|  PASSED  
+          sts_serial|  10|    100000|     100|0.62936094|  PASSED  
+          sts_serial|  10|    100000|     100|0.25342827|  PASSED  
+          sts_serial|  11|    100000|     100|0.51944552|  PASSED  
+          sts_serial|  11|    100000|     100|0.00609347|  PASSED  
+          sts_serial|  12|    100000|     100|0.56237584|  PASSED  
+          sts_serial|  12|    100000|     100|0.52004787|  PASSED  
+          sts_serial|  13|    100000|     100|0.43596461|  PASSED  
+          sts_serial|  13|    100000|     100|0.64163106|  PASSED  
+          sts_serial|  14|    100000|     100|0.39399697|  PASSED  
+          sts_serial|  14|    100000|     100|0.98552971|  PASSED  
+          sts_serial|  15|    100000|     100|0.93027117|  PASSED  
+          sts_serial|  15|    100000|     100|0.44526490|  PASSED  
+          sts_serial|  16|    100000|     100|0.93527370|  PASSED  
+          sts_serial|  16|    100000|     100|0.48043218|  PASSED  
+### test 200
+Error:  Can only test distribution of positive ntuples.
+        Use -n ntuple for 0 < ntuple.
+        Read test description with dieharder -d 200 -h.
+### test 201
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.57e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+rgb_minimum_distance|   0|     10000|    1000|0.00000000|  FAILED  
+### test 202
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.79e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    rgb_permutations|   5|    100000|     100|0.06980937|  PASSED  
+### test 203
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.79e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+      rgb_lagged_sum|   0|   1000000|     100|0.93596998|  PASSED  
+### test 204
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.68e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+     rgb_kstest_test|   0|     10000|    1000|0.80731492|  PASSED  
+### test 205
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/urandom.bin|  9.71e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+     dab_bytedistrib|   0|  51200000|       1|0.22906795|  PASSED  
+### finished

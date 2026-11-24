@@ -1,0 +1,266 @@
+### test 0
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.75e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_birthdays|   0|       100|     100|0.75827191|  PASSED  
+### test 1
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.68e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+      diehard_operm5|   0|   1000000|     100|0.00530177|  PASSED  
+### test 2
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.84e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+  diehard_rank_32x32|   0|     40000|     100|0.02919045|  PASSED  
+### test 3
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.97e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+    diehard_rank_6x8|   0|    100000|     100|0.82977594|  PASSED  
+### test 4
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  7.73e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_bitstream|   0|   2097152|     100|0.88700330|  PASSED  
+### test 8
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.01e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+diehard_count_1s_str|   0|    256000|     100|0.35426519|  PASSED  
+### test 9
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.79e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+diehard_count_1s_byt|   0|    256000|     100|0.98039368|  PASSED  
+### test 10
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.86e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+ diehard_parking_lot|   0|     12000|     100|0.41559726|  PASSED  
+### test 11
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.38e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_2dsphere|   2|      8000|     100|0.99070058|  PASSED  
+### test 12
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  8.92e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    diehard_3dsphere|   3|      4000|     100|0.60836572|  PASSED  
+### test 13
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.45e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 3 times
+     diehard_squeeze|   0|    100000|     100|0.62608959|  PASSED  
+### test 15
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.02e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+        diehard_runs|   0|    100000|     100|0.90951847|  PASSED  
+        diehard_runs|   0|    100000|     100|0.66414439|  PASSED  
+### test 16
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.84e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+       diehard_craps|   0|    200000|     100|0.54976361|  PASSED  
+       diehard_craps|   0|    200000|     100|0.99393639|  PASSED  
+### test 17
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.74e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 29 times
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.00622538|  PASSED  
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.00087425|   WEAK   
+### test 100
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.05e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+         sts_monobit|   1|    100000|     100|0.99241729|  PASSED  
+### test 101
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.03e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+            sts_runs|   2|    100000|     100|0.65366391|  PASSED  
+### test 102
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.93e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+          sts_serial|   1|    100000|     100|0.99241729|  PASSED  
+          sts_serial|   2|    100000|     100|0.31814781|  PASSED  
+          sts_serial|   3|    100000|     100|0.59414282|  PASSED  
+          sts_serial|   3|    100000|     100|0.71137003|  PASSED  
+          sts_serial|   4|    100000|     100|0.12004574|  PASSED  
+          sts_serial|   4|    100000|     100|0.23113339|  PASSED  
+          sts_serial|   5|    100000|     100|0.87930112|  PASSED  
+          sts_serial|   5|    100000|     100|0.68356223|  PASSED  
+          sts_serial|   6|    100000|     100|0.84883967|  PASSED  
+          sts_serial|   6|    100000|     100|0.95613156|  PASSED  
+          sts_serial|   7|    100000|     100|0.87286728|  PASSED  
+          sts_serial|   7|    100000|     100|0.29375333|  PASSED  
+          sts_serial|   8|    100000|     100|0.91467639|  PASSED  
+          sts_serial|   8|    100000|     100|0.91394602|  PASSED  
+          sts_serial|   9|    100000|     100|0.72795002|  PASSED  
+          sts_serial|   9|    100000|     100|0.84618560|  PASSED  
+          sts_serial|  10|    100000|     100|0.90660514|  PASSED  
+          sts_serial|  10|    100000|     100|0.98868023|  PASSED  
+          sts_serial|  11|    100000|     100|0.91473383|  PASSED  
+          sts_serial|  11|    100000|     100|0.66236609|  PASSED  
+          sts_serial|  12|    100000|     100|0.39675730|  PASSED  
+          sts_serial|  12|    100000|     100|0.07029748|  PASSED  
+          sts_serial|  13|    100000|     100|0.43533309|  PASSED  
+          sts_serial|  13|    100000|     100|0.96860335|  PASSED  
+          sts_serial|  14|    100000|     100|0.32809795|  PASSED  
+          sts_serial|  14|    100000|     100|0.10288689|  PASSED  
+          sts_serial|  15|    100000|     100|0.23138145|  PASSED  
+          sts_serial|  15|    100000|     100|0.97204221|  PASSED  
+          sts_serial|  16|    100000|     100|0.82232004|  PASSED  
+          sts_serial|  16|    100000|     100|0.98510827|  PASSED  
+### test 200
+Error:  Can only test distribution of positive ntuples.
+        Use -n ntuple for 0 < ntuple.
+        Read test description with dieharder -d 200 -h.
+### test 201
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.96e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+rgb_minimum_distance|   0|     10000|    1000|0.00000000|  FAILED  
+### test 202
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.76e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+    rgb_permutations|   5|    100000|     100|0.89373942|  PASSED  
+### test 203
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  9.58e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 1 times
+      rgb_lagged_sum|   0|   1000000|     100|0.76634677|  PASSED  
+### test 204
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.04e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+     rgb_kstest_test|   0|     10000|    1000|0.57143891|  PASSED  
+### test 205
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|streams/dks.bin|  1.04e+08  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+# The file file_input_raw was rewound 2 times
+     dab_bytedistrib|   0|  51200000|       1|0.80898928|  PASSED  
+### finished

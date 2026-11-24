@@ -1,0 +1,9 @@
+[1] reference ChaCha20-Poly1305 vs Wycheproof: 316/316 ok
+[2] reference HKDF-SHA256 vs Wycheproof: 83/83 ok
+[3] valid inputs: ciphertext, message key, state and cross-decrypt: 20000/20000 ok
+[4] failure inputs, flag and gibberish byte-for-byte: 20000/20000 ok
+RESULT: ALL MATCH
+
+real	0m35.685s
+user	0m35.488s
+sys	0m0.004s

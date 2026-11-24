@@ -1,0 +1,13 @@
+60000 measurements per class, 1024-byte message
+
+valid blob vs tampered blob (decrypt)                   t=    -7.3  mean diff=     -137 ns  possible      [EXPECTED (code paths differ)]
+valid blob vs wrong key (decrypt)                       t=    -6.2  mean diff=     -160 ns  possible      [EXPECTED (code paths differ)]
+tag mismatch in first byte vs last byte (decrypt)       t=    -0.8  mean diff=      -32 ns  no evidence   [should show no leak]
+tampered vs wrong key (decrypt, both invalid)           t=     3.1  mean diff=       41 ns  no evidence   [should show no leak]
+all-zero key vs all-ones key (decrypt)                  t=    -1.6  mean diff=      -72 ns  no evidence   [should show no leak]
+all-zero plaintext vs random plaintext (decrypt)        t=    -1.6  mean diff=     -619 ns  no evidence   [should show no leak]
+all-zero key vs all-ones key (encrypt)                  t=    -1.8  mean diff=      -48 ns  no evidence   [should show no leak]
+
+real	1m22.052s
+user	1m21.543s
+sys	0m0.084s

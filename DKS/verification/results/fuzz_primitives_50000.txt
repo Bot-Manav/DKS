@@ -1,0 +1,5 @@
+differential fuzz: 50000 iterations, 0 mismatches
+
+real	0m17.943s
+user	0m17.745s
+sys	0m0.000s
